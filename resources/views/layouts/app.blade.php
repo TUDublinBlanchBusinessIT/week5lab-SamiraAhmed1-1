@@ -29,6 +29,9 @@
               <li class="nav-item">
                 <a class="nav-link" href={{route('bookings.index')}}>Show Bookings</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href={{route('members.store')}}>members Store</a>
+              </li>
             </ul>
           </div>
         </nav>
