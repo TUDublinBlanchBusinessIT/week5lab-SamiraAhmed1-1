@@ -26,6 +26,9 @@
               <li class="nav-item">
                 <a class="nav-link" href={{route('courts.create')}}>Name Create Bookings</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href={{route('bookings.index')}}>Show Bookings</a>
+              </li>
             </ul>
           </div>
         </nav>
